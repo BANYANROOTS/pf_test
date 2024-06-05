@@ -1,0 +1,83 @@
+<!-- Portfolio  -->
+        <section id="Portfolio">
+            <div class="wrap paddingT50 paddingB50 flex">
+                <h2 class="h2">Portfolio</h2>
+                <p>"아래 작품들은 제가 학원에서 수료하는 동안 진행한 다양한 웹디자인 및 웹퍼블리싱 프로젝트들입니다. <span class="block"></span>
+                    각 프로젝트는 최신 기술과 디자인 트렌드를 반영하여 제작되었으며, 실무에서의 적용 가능성을 염두에 두고 개발되었습니다."
+                </p>
+                <ul class="list flex">
+                    <li class="grid">
+                        <h3 class="h3">프로젝트 1: E-commerce Website</h3>
+                        <figure>
+                            <img src="ecommerce_screenshot.jpg" alt="E-commerce Website">
+                            <figcaption>사용자 친화적인 인터페이스와 반응형 디자인을 강조한 온라인 쇼핑몰</figcaption>
+                        </figure>
+                        <ul class="sub">
+                            <li><strong class="bold">개요:</strong> 온라인 쇼핑몰 사이트 디자인 및 퍼블리싱</li>
+                            <li><strong class="bold">역할:</strong> 전체 디자인 및 프론트엔드 퍼블리싱</li>
+                            <li><strong class="bold">사용한 기술:</strong> HTML5, CSS3, JavaScript, jQuery, Bootstrap</li>
+                            <li class="work">
+                                <strong class="bold">작업 과정:</strong>
+                                <ul>
+                                    <li>아이디어 구상 및 컨셉 설정</li>
+                                    <li>와이어프레임 및 디자인 시안 제작</li>
+                                    <li>HTML/CSS로 레이아웃 구현</li>
+                                    <li>JavaScript/jQuery로 동적 요소 추가</li>
+                                    <li>반응형 디자인 구현</li>
+                                </ul>
+                            </li>
+                            <li><strong class="bold">기여도:</strong> 80% (디자인, 퍼블리싱 및 테스트)</li>
+                            <li><a href="ecommerce_live_link" class="block">라이브 사이트 링크</a></li>
+                        </ul>
+                    </li>
+                    <li class="grid">
+                        <h3 class="h3">프로젝트 2: Portfolio Website</h3>
+                        <figure>
+                            <img src="portfolio_screenshot.jpg" alt="Portfolio Website">
+                            <figcaption>나의 웹디자인 및 개발 역량을 보여주는 개인 포트폴리오 사이트</figcaption>
+                        </figure>
+                        <ul class="sub">
+                            <li><strong class="bold">개요:</strong> 개인 포트폴리오 사이트 디자인 및 퍼블리싱</li>
+                            <li><strong class="bold">역할:</strong> 전체 디자인 및 프론트엔드 퍼블리싱</li>
+                            <li><strong class="bold">사용한 기술:</strong> HTML5, CSS3, JavaScript, React</li>
+                            <li class="work">
+                                <strong class="bold">작업 과정:</strong>
+                                <ul>
+                                    <li>컨셉 설정 및 아이디어 스케치</li>
+                                    <li>와이어프레임 및 프로토타입 제작</li>
+                                    <li>React를 사용한 컴포넌트 기반 개발</li>
+                                    <li>CSS3로 스타일링 및 애니메이션 추가</li>
+                                    <li>반응형 디자인 적용</li>
+                                </ul>
+                            </li>
+                            <li><strong class="bold">기여도:</strong> 100% (단독 프로젝트)</li>
+                            <li><a href="portfolio_live_link" class="block">라이브 사이트 링크</a></li>
+                        </ul>
+                    </li>
+                    <li class="grid">
+                        <h3 class="h3">프로젝트 3: Blog Platform</h3>
+                        <figure>
+                            <img src="blog_platform_screenshot.jpg" alt="Blog Platform">
+                            <figcaption>사용자 친화적인 인터페이스와 편리한 콘텐츠 관리 기능을 갖춘 블로그 플랫폼</figcaption>
+                        </figure>
+                        <ul class="sub">
+                            <li><strong class="bold">개요:</strong> 블로그 플랫폼 디자인 및 퍼블리싱</li>
+                            <li><strong class="bold">역할:</strong> 전체 디자인 및 프론트엔드 퍼블리싱</li>
+                            <li><strong class="bold">사용한 기술:</strong> HTML5, CSS3, JavaScript, Vue.js</li>
+                            <li class="work">
+                                <strong class="bold">작업 과정:</strong>
+                                <ul>
+                                    <li>사용자 요구 분석 및 기능 정의</li>
+                                    <li>와이어프레임 및 초기 디자인 시안 제작</li>
+                                    <li>Vue.js를 사용한 컴포넌트 기반 개발</li>
+                                    <li>CSS3로 스타일링 및 레이아웃 구성</li>
+                                    <li>반응형 디자인 구현</li>
+                                </ul>
+                            </li>
+                            <li><strong class="bold">기여도:</strong> 90% (디자인, 퍼블리싱 및 테스트)</li>
+                            <li><a href="blog_platform_live_link" class="block">라이브 사이트 링크</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </section>
